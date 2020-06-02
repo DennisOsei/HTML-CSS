@@ -1,0 +1,64 @@
+ .bold-text {
+     font-weight: bolder;
+ }
+ 
+ .underline {
+     text-decoration: underline;
+ }
+  
+  .red-text {
+    color: red;
+  }
+
+  h1 {
+    font-family: Lobster, monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+ 
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+      width: 100px
+  }
+
+  .silver-background {
+      background-color: silver;
+  }
+
+  #cat-photo-form {
+      background-color: yellow;
+  }
+
+  .yellow-box {
+      margin: -17px 0px -8px 0px;
+  }
+
+  .silver-box {
+      padding: 0px 0px 20px 0px
+  }
+
+  html {
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    border-radius: 3%;
+  }
+    
+    
+  
+
+
+
+
+
+
+
